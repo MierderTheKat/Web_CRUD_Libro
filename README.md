@@ -1,4 +1,4 @@
-# Web-de-Libros_MTK
+# Web CRUD de Libros
 Pequeña pagina web con el CRUD para un catalogo de libros, en el que se pueden agregar imagenes para cada libro.
 
 [Universidad Politécnica de Durango](http://www.unipolidgo.edu.mx/sitio/) - Ingeniería en software
