@@ -1,7 +1,7 @@
 # Web-de-Libros_MTK
 Pequeña pagina web con el CRUD para un catalogo de libros, en el que se pueden agregar imagenes para cada libro.
 
-[Universidad Politécnica de Durango](http://www.unipolidgo.edu.mx/sitio/) - Ingeniería en software 8°A
+[Universidad Politécnica de Durango](http://www.unipolidgo.edu.mx/sitio/) - Ingeniería en software
 - [Francisco Javier Rivera](https://github.com/MierderTheKat)
 
 ## Base de datos utilizada
